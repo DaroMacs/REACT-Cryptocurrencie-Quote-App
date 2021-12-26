@@ -18,7 +18,7 @@ const Container =  styled.div`
 const Image = styled.img`
   max-width: 400px;
   width: 80%;
-  margin: 100px auto 0 auto;
+  margin: 25px auto 0 auto;
   display: block;
 `
 
@@ -27,7 +27,7 @@ const Heading = styled.h1`
   color: #FFF;
   text-align: center;
   font-weight: 400;
-  margin-top: 80px;
+  margin-top: 25px;
   margin-bottom: 50px;
   font-size: 34px;
 
